@@ -14,4 +14,4 @@ processing, deep learning models, algorithms, and quantized neural networks. In 
 experience with useful technologies such as PyTorch and, more particularly, neural network 
 modules and sound processing modules such as librosa was acquired.
 
-Please contact me in case you need access to the actual report of my Master's thesis.
+Report: https://ikee.lib.auth.gr/record/342971/?ln=en&fbclid=IwAR1x5PvnjyQLt8RJhS1keH90k3FhL8_sB4YkMxNHePyMmftD1LNeldFKyeU
