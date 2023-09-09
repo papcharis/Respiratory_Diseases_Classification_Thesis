@@ -14,4 +14,4 @@ processing, deep learning models, algorithms, and quantized neural networks. In 
 experience with useful technologies such as PyTorch and, more particularly, neural network 
 modules and sound processing modules such as librosa was acquired.
 
-Report: https://ikee.lib.auth.gr/record/342971/?ln=en&fbclid=IwAR1x5PvnjyQLt8RJhS1keH90k3FhL8_sB4YkMxNHePyMmftD1LNeldFKyeU
+Report: https://1drv.ms/b/s!Ajx48q9SM8-x5l1m4lzImnFC0zsD?e=0xhxPO
